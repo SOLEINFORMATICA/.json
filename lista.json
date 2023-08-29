@@ -584,9 +584,8 @@
       },
       {
         "name": "ESPN 4 HD",
-        "uri": "https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri":"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5222bd8c2898593982fc2550e493aa69&key=59b269b80becd036307a605d9938160f"
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SP_ANDINA)/index.m3u8",
+      
       },
       {
         "name": "ESPN EXTRA HD",
