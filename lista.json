@@ -31,31 +31,6 @@
     ]
     },
   {
-        "name": "El regreso de sombras en la noche",
-        "samples": [
-          {
-            "name": "Pláta Yvy Guýpe",
-            "uri": "https://archive.org/download/plata-yvy-guype/pl%C3%A1ta%20yvy%20gu%C3%BDpe.mp4"
-          },
-          {
-            "name": "La Casa Del Terror",
-            "uri": "https://archive.org/download/la-casa-del-horror/La%20Casa%20del%20Horror.mp4"
-          },
-          {
-            "name": "Post mortem",
-            "uri": "https://archive.org/download/post-mortem_202308/Post%20Mortem.mp4"
-          },
-          {
-            "name": "Jasy Jatere",
-            "uri": "https://archive.org/download/jasy-jatere/Jasy%20Jatere.mp4"
-          },
-          {
-            "name": "Kurundu",
-            "uri": "https://archive.org/download/Kurundu/Kurundu.mp4"
-          },
-        ]
-      },
-  {
     "name": "PARAGUAY",
     "samples": [
 
