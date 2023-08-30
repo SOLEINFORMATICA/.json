@@ -31,37 +31,29 @@
     ]
     },
   {
-    "name": "PELICULAS 24/7 ",
+    "name": "SERIE MARILINA. ATREVERSE A SOÑAR",
     "samples": [
 
       {
-        "name": "HARRY POTTER",
-        "uri": "http://149.56.44.10/hls/114_.m3u8"
+        "name": "CAPITULO 1",
+        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/5dac99a6-9af4-40e6-82ac-a70b7c67384c/1e2efee2-3ada-4aab-9a9e-558295620abb-master.m3u8"
       },
       {
-        "name": "RAPIDO Y FURIOSO SAGA",
-        "uri": "http://149.56.44.10/hls/108_.m3u8"
+        "name": "CAPITULO 2",
+        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/9411af00-b437-42c6-8b62-43fb895adb54/e3959a69-8533-4a6f-83c2-4c466a57a1ac-master.m3u8"
       },
       {
-        "name": "BATMAN SAGA",
-        "uri": "http://149.56.44.10/hls/110_.m3u8"
+        "name": "CAPITULO 3",
+        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/eb81a82a-0181-44b6-98eb-c3a528b9cc04/57896078-086b-4c2f-a00f-65966636ced3-master.m3u8"
       },
       {
-        "name": "JOHN WICK SAGA",
-        "uri": "http://149.56.44.10/hls/115_.m3u8"
+        "name": "CAPITULO 4",
+        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/0ae12a5f-6b2a-4a1a-995f-61c24843294c/cab12a99-1061-4482-8561-0c2c8f524bc6-master.m3u8"
       },
       {
-        "name": "RESIDENT EVIL",
-        "uri": "http://149.56.44.10/hls/116_.m3u8"
+        "name": "CAPITULO 5",
+        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/4b4ec519-a90f-4aa4-9812-ed6d250a9868/f819096c-66e4-47c9-a0ef-ff924652b78f-master.m3u8"
       },
-      {
-        "name": "SCARY MOVIE SAGA",
-        "uri": "http://149.56.44.10/hls/117_.m3u8"
-      },
-      {
-        "name": "CREPUSCULO SAGA",
-        "uri": "http://149.56.44.10/hls/112_.m3u8"
-      }
     ]
   },
   {
