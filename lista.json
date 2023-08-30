@@ -880,6 +880,10 @@
     "name": "CULTURALES",
     "samples": [
       {
+        "name": "NASA TV HD",
+        "uri": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8"
+      },
+      {
         "name": "ANIMAL PLANET HD",
         "uri": "https://edge-live14-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_2A_wl/AnimalPlanet.mpd",
         "drm_scheme": "clearkey",
