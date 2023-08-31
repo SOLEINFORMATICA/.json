@@ -889,10 +889,52 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=36b2c6b7736a5901bf408916a454abf9&key=f0d2254f85b73717f4c2cd81bda71889"
       },
       {
+        "name": "AFISSIONADOS HD",
+        "uri": "https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/aficionados.json"
+      },
+      {
         "name": "GOLF CHANNEL HD",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=38d6226b7cd2cfa86b4b9cdaa455e7d7&key=24f0ef2bf787647cc02df870417eed2b"
+      },
+      {
+        "name": "ARENA SPORT 1 HD",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA SPORT 2 HD",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA SPORT 3 HD",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA SPORT 4 HD",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/arena4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA SPORT 5 HD",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/arena5.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA SPORT 6 HD",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/arena6.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
       },
       {
         "name": "EUROSPORT-1 HD",
