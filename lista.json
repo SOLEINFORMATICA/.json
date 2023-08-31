@@ -372,10 +372,9 @@
         "uri": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8"
       },
       {
-        "name": "BAND SPORTS HD",
-        "uri": "https://0054-jbc.dtvott.com/dash_live_0054/manifest.mpd?da=0&country=BR&accountType=OTT",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd1af42db82f5a17a0d75246f25f5201&key=2d104170d5617556b16484d2c44b0036"
+        "name": "BAND HD",
+        "uri": "http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist_w394705880.m3u8",
+        
       },
       {
         "name": "RECORD NEWS HD",
