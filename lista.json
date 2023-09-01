@@ -285,6 +285,10 @@
     "samples": [
 
       {
+        "name": "GRAN HERMANO TV HD",
+        "uri": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+      },
+      {
         "name": "TELEFE HD",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd",
         "drm_scheme": "clearkey",
@@ -321,7 +325,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=78a2c02489da5d5aa2c5254dc8357690&key=2d26cfbc205d6be3c810039868f41ae6"
       },
       {
-        "name": "TN HD",
+        "name": "TN NOTICIAS HD",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b363e35a5075589983fec4e2f74f90b9&key=8f7c53bfe02df34d253eb61e7d01ae79"
@@ -338,6 +342,16 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=40b7d6c428f453498bb8efd1ea9f4b87&key=9410baaf249ff8f0cd6dced01ecf2f5d"
       },
+      {
+        "name": "ARGENTINISIMA SATELITAL HD",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/44p1aws6j2n0qbe/keyargentinisima.json"
+      },
+      {
+        "name": "ENCUETRO TV HD",
+        "uri": "https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8"
+      }
       {
         "name": "TV PUBLICA HD",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd",
