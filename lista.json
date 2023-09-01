@@ -1260,6 +1260,44 @@
     ]
   },
   {
+    "name": "PROGRAMACION PLUTO TV ",
+    "samples": [
+
+      {
+        "name": "THE WALKING DEAD",
+        "uri": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true"
+      },
+      {
+        "name": "MISTERIOS SIN RESOLVER",
+        "uri": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c3-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8023daf-3778-41a0-b07f-825852bd1452&userId=&serverSideAds=true"
+      },
+      {
+        "name": "CIENCIA",
+        "uri": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f0bad78-81a8-4ec0-bca7-e97463a2cc94&userId=&serverSideAds=true"
+      },
+      {
+        "name": "REALITIES",
+        "uri": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f99b228-251b-4230-bbe0-7bc14292a7e0&userId=&serverSideAds=true"
+      },
+      {
+        "name": "AVENTURA",
+        "uri": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16001-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4420bd28-3750-4503-ab32-d76a0c1ec97d&userId=&serverSideAds=true"
+      },
+      {
+        "name": "ANIMALES",
+        "uri": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e3-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f8b00032-b77c-4a09-85aa-2efb870d9032&userId=&serverSideAds=true"
+      },
+      {
+        "name": "NATURALEZA",
+        "uri": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true"
+      },
+      {
+        "name": "MOTOR",
+        "uri": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21631ca0-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f2dbf57-290d-486d-a430-704e5a67cf6f&userId=&serverSideAds=true"
+      }
+    ]
+  },
+  {
     "name": "MUSICAS ",
     "samples": [
       {
